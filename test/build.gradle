@@ -1,6 +1,6 @@
 plugins {
     id 'com.android.application'
-    it 'java'
+    id 'java'
     id 'jacoco'
 }
 
